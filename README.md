@@ -13,3 +13,5 @@
 - Deployment: `Docker` `Kubernetes` `Helm`
 - IaC: `Terraform`
 - Configuration Management: `Ansible`
+
+![ReadyPlayerMe-Avatar (2)](https://github.com/aayvyas-lbg/aayvyas-lbg/assets/125258043/dd900bc4-f700-42f0-88e1-33b35dbb8404)
