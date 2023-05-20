@@ -1,4 +1,4 @@
-<img align=right  height=600 width=350 src=https://github.com/aayvyas-lbg/aayvyas-lbg/assets/125258043/b955e213-bbe7-42bc-a365-c358124cde85></img>
+<img align=right  height=500 width=300 src=https://github.com/aayvyas-lbg/aayvyas-lbg/assets/125258043/b955e213-bbe7-42bc-a365-c358124cde85></img>
 
 <h4> https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Digital%20Resume </h4> 
 
