@@ -1,8 +1,7 @@
-<img align=right  height=400 width=400 src=https://github.com/aayvyas-lbg/aayvyas-lbg/assets/125258043/dd900bc4-f700-42f0-88e1-33b35dbb8404></img>
-<h4> https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Digital%20Resume </h4>
+<h4> https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Digital%20Resume </h4> 
 
+<img align=right  height=400 width=150 src=https://github.com/aayvyas-lbg/aayvyas-lbg/assets/125258043/82cdc18c-0a1e-466a-8641-5ba24b266574></img>
 
- 
 ## Hi! I am ` Aayush Vyas ` 👨‍💻
 <h4>Interests: https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Software%20Development%20%26%20Design https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Platform%20Development https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Cloud%20Services </h4>
 
