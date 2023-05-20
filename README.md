@@ -4,7 +4,7 @@
 
 ## Hi! I am ` Aayush Vyas ` 👨‍💻
 
-<h4>Interests: ttps://github.com/aayvyas-lbg/aayvyas-lbg/labels/Software%20Development%20%26%20Design ttps://github.com/aayvyas-lbg/aayvyas-lbg/labels/Platform%20Development https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Cloud%20Services </h4>
+<h4>Interests:https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Software%20Development%20%26%20Design https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Platform%20Development https://github.com/aayvyas-lbg/aayvyas-lbg/labels/Cloud%20Services </h4>
 
 <p>Languages: <code>Java</code></sub> <code>JavaScript</code> <code>Python</code> <code>C/C++</code> <code>Groovy</code> <code>Go</code> <code>bash</code>  </p>
 
