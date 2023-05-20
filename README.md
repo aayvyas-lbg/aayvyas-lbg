@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! I am `Aayush Vyas` 👨‍💻
 
-<!--
-**aayvyas-lbg/aayvyas-lbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests: <code>👷‍ Software Development and Design </code> <code>🧩 Platform Development </code> <code>☁ Cloud Services </code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages: `Java` `JavaScript` `Python` `C/C++` `Groovy` `Go`
+---
+#### Tech Stack: 
+- FrontEnd: `React` `ReactNative`
+- Backend: `Sprint Boot` `NodeJS + Express` `fastHttp`
+- Databases: `NoSql and SQL` 
+- CI/CD: `Jenkins` `Cloud Build`
+- Deployment: `Docker` `Kubernetes`
+- IaC: `Terraform`
+- Configuration Management: `Ansible`
