@@ -9,10 +9,10 @@
 
 ---
 #### Tech Stack: 
-- FrontEnd: `React` `ReactNative`
-- Backend: `Sprint Boot` `NodeJS + Express` `fastHttp` `flask` `Django`
-- Databases: `NoSql and SQL` 
-- CI/CD: `Jenkins` `Cloud Build`
-- Deployment: `Docker` `Kubernetes` `Helm`
-- IaC: `Terraform`
-- Configuration Management: `Ansible`
+- 🧑‍🎨 FrontEnd: `React` `ReactNative`
+- 🧮 Backend: `Sprint Boot` `NodeJS + Express` `fastHttp` `flask` `Django`
+- 🗃️ Databases: `NoSql and SQL` 
+- ☑️ CI/CD: `Jenkins` `Cloud Build`
+- 🚀 Deployment: `Docker` `Kubernetes` `Helm`
+- 🏗️ IaC: `Terraform`
+- 🎛️ Configuration Management: `Ansible`
