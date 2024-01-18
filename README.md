@@ -9,8 +9,8 @@
 
 ---
 #### Tech Stack: 
-- 🧑‍🎨 FrontEnd: `React` `ReactNative`
-- 🧮 Backend: `Sprint Boot` `NodeJS + Express` `fastHttp` `flask` `Django`
+- 🧑‍🎨 FrontEnd: `React` `ReactNative` `NextJS`
+- 🧮 Backend: `Sprint Boot` `Reactive` `NodeJS + Express` `fastHttp` `flask` `Django`
 - 🗃️ Databases: `NoSql and SQL` 
 - ☑️ CI/CD: `Jenkins` `Cloud Build`
 - 🚀 Deployment: `Docker` `Kubernetes` `Helm`
